@@ -1,2 +1,2 @@
 console.log("log");
-console.log("Version11+amend");
+console.log("Version11");
